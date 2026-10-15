@@ -1,0 +1,543 @@
+{
+  "source": "https://www.milanoristorazione.it/files/Famiglie/Cosa_si_mangia/Grammature/Estate_2026/Grammature_al_crudo_Scuole_Estate_2026.pdf",
+  "local_pdf": "data/Grammature_al_crudo_Scuole_Estate_2026.pdf",
+  "title": "Menu Estate 2026 - Grammature al crudo delle ricette",
+  "scope": "Scuole dell'infanzia, primarie e secondarie di primo grado",
+  "note": "Le grammature potrebbero subire scostamenti pari al +/- 5% (+/-10% per 'secondaria adulti' su alcune ricette).",
+  "age_groups": ["infanzia", "primaria", "secondaria_adulti"],
+  "categories": {
+    "primi_piatti": [
+      {
+        "dish": "Gnocchi al pomodoro",
+        "ingredients": [
+          {"name": "Gnocchi", "composition": "patate (acqua e patate disidratate), semola di grano duro, sale. Può contenere tracce di soia e senape", "infanzia": 130, "primaria": 170, "secondaria_adulti": 210},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Malloreddus BIO con ragù di pesce",
+        "ingredients": [
+          {"name": "Malloreddus BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Filetti di merluzzo", "infanzia": 15, "primaria": 21, "secondaria_adulti": 27},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Prezzemolo", "infanzia": 1.3, "primaria": 1.8, "secondaria_adulti": 2.3},
+          {"name": "Aglio", "infanzia": 0.3, "primaria": 0.4, "secondaria_adulti": 0.5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta BIO agli aromi",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 9},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Rosmarino", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.45},
+          {"name": "Salvia", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.45},
+          {"name": "Sale iodato", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.45}
+        ]
+      },
+      {
+        "dish": "Pasta BIO aglio, olio e parmigiano",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 9},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Aglio", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.45},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta BIO al sugo di pomodoro con peperoni",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Peperoni", "infanzia": 15, "primaria": 21, "secondaria_adulti": 27},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta BIO al pomodoro",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta BIO al ragù di soia BIO",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Soia BIO", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Sedano", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta BIO con melanzane alla siciliana",
+        "ingredients": [
+          {"name": "Pasta BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Melanzane", "infanzia": 25, "primaria": 35, "secondaria_adulti": 45},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Basilico", "infanzia": 0.5, "primaria": 0.7, "secondaria_adulti": 0.9},
+          {"name": "Aglio", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.45},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta di mais BIO al pomodoro e basilico",
+        "ingredients": [
+          {"name": "Pasta di mais BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Basilico", "infanzia": 0.5, "primaria": 0.7, "secondaria_adulti": 0.9},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta di farro BIO al pesto con crema di zucchine",
+        "ingredients": [
+          {"name": "Pasta di farro BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Zucchine", "infanzia": 14, "primaria": 20, "secondaria_adulti": 26},
+          {"name": "Pesto", "composition": "acqua, olio extravergine d'oliva, basilico, ricotta (siero di latte, latte, acido citrico, sale), Grana Padano (latte, sale, caglio, lisozima), Pecorino Romano (latte ovino, caglio, sale, fermenti lattici), pinoli, sale, aglio, fibra di carota, acido citrico", "infanzia": 7, "primaria": 10, "secondaria_adulti": 13},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Olio extravergine di oliva", "infanzia": 1.4, "primaria": 2, "secondaria_adulti": 2.6},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta integrale BIO al pesto",
+        "ingredients": [
+          {"name": "Pasta integrale BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Pesto", "composition": "acqua, olio extravergine d'oliva, basilico, ricotta (siero di latte, latte, acido citrico, sale), Grana Padano (latte, sale, caglio, lisozima), Pecorino Romano (latte ovino, caglio, sale, fermenti lattici), pinoli, sale, aglio, fibra di carota, acido citrico", "infanzia": 10, "primaria": 14, "secondaria_adulti": 18},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Olio extravergine di oliva", "infanzia": 2.1, "primaria": 3, "secondaria_adulti": 3.85},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Pasta integrale BIO al pomodoro",
+        "ingredients": [
+          {"name": "Pasta integrale BIO", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Polpa di pomodoro", "infanzia": 33, "primaria": 47, "secondaria_adulti": 60},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Carote", "infanzia": 3.3, "primaria": 4.7, "secondaria_adulti": 6},
+          {"name": "Cipolle", "infanzia": 2.8, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Ravioli di magro olio e parmigiano",
+        "ingredients": [
+          {"name": "Ravioli di magro", "composition": "pasta: semola di grano duro, uova, acqua. Ripieno: ricotta (siero di latte, latte, crema di latte, sale, acido citrico), spinaci, formaggio stagionato (latte, sale, caglio microbico), patate disidratate, fibra vegetale, sale. Può contenere tracce di soia e senape.", "infanzia": 79, "primaria": 98, "secondaria_adulti": 119},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 10},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Ravioli di magro olio e salvia",
+        "ingredients": [
+          {"name": "Ravioli di magro", "composition": "pasta: semola di grano duro, uova, acqua. Ripieno: ricotta (siero di latte, latte, crema di latte, sale, acido citrico), spinaci, formaggio stagionato (latte, sale, caglio microbico), patate disidratate, fibra vegetale, sale. Può contenere tracce di soia e senape.", "infanzia": 79, "primaria": 98, "secondaria_adulti": 119},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 10},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Salvia", "infanzia": 0.25, "primaria": 0.35, "secondaria_adulti": 0.5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Riso all'olio",
+        "ingredients": [
+          {"name": "Riso", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 9},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Riso olio e parmigiano",
+        "ingredients": [
+          {"name": "Riso", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 9},
+          {"name": "Parmigiano Reggiano", "infanzia": 3, "primaria": 4, "secondaria_adulti": 5},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Risotto alla parmigiana",
+        "ingredients": [
+          {"name": "Riso", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Parmigiano Reggiano", "infanzia": 9, "primaria": 12, "secondaria_adulti": 15},
+          {"name": "Olio extravergine di oliva", "infanzia": 2.1, "primaria": 3, "secondaria_adulti": 3.9},
+          {"name": "Estratto per brodo vegetale", "infanzia": 2.1, "primaria": 3, "secondaria_adulti": 3.8},
+          {"name": "Burro", "infanzia": 1.8, "primaria": 2.5, "secondaria_adulti": 3.2},
+          {"name": "Cipolle", "infanzia": 1.1, "primaria": 1.6, "secondaria_adulti": 2.6},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Risotto allo zafferano",
+        "ingredients": [
+          {"name": "Riso", "infanzia": 50, "primaria": 70, "secondaria_adulti": 90},
+          {"name": "Parmigiano Reggiano", "infanzia": 3.6, "primaria": 5, "secondaria_adulti": 6.4},
+          {"name": "Olio extravergine di oliva", "infanzia": 2.1, "primaria": 3, "secondaria_adulti": 3.9},
+          {"name": "Estratto per brodo vegetale", "infanzia": 2.1, "primaria": 3, "secondaria_adulti": 3.8},
+          {"name": "Burro", "infanzia": 1.8, "primaria": 2.5, "secondaria_adulti": 3.2},
+          {"name": "Cipolle", "infanzia": 1.1, "primaria": 1.6, "secondaria_adulti": 2.6},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4},
+          {"name": "Zafferano", "infanzia": 0.02, "primaria": 0.03, "secondaria_adulti": 0.04}
+        ]
+      }
+    ],
+    "secondi_piatti": [
+      {
+        "dish": "Bastoncini di pesce",
+        "ingredients": [
+          {"name": "Bastoncini di pesce", "composition": "filetto di merluzzo del pacifico 65%, pangrattato (farina di frumento, sale, spezie, lievito), acqua, olio di colza, farina di frumento, amido di patate, sale", "infanzia": 60, "primaria": 120, "secondaria_adulti": 120}
+        ]
+      },
+      {
+        "dish": "Bocconcini di tacchino alla romana",
+        "ingredients": [
+          {"name": "Sovracosce di tacchino", "infanzia": 67, "primaria": 76, "secondaria_adulti": 109},
+          {"name": "Carote", "infanzia": 4.2, "primaria": 4.8, "secondaria_adulti": 7},
+          {"name": "Cipolle", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Amido di mais", "infanzia": 3.3, "primaria": 3.8, "secondaria_adulti": 5.5},
+          {"name": "Sedano", "infanzia": 3, "primaria": 3.4, "secondaria_adulti": 5},
+          {"name": "Estratto per brodo vegetale", "infanzia": 2.2, "primaria": 2.5, "secondaria_adulti": 3.6},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Bocconcini di tacchino senape e limone BIO",
+        "ingredients": [
+          {"name": "Sovracosce di tacchino", "infanzia": 67, "primaria": 76, "secondaria_adulti": 109},
+          {"name": "Carote", "infanzia": 4.2, "primaria": 4.8, "secondaria_adulti": 7},
+          {"name": "Cipolle", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Succo di limone BIO", "infanzia": 2.6, "primaria": 3, "secondaria_adulti": 4.3},
+          {"name": "Senape", "infanzia": 2.6, "primaria": 3, "secondaria_adulti": 4.3},
+          {"name": "Amido di mais", "infanzia": 1.8, "primaria": 2, "secondaria_adulti": 2.9},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Burger con legumi con maionese 100% vegetale BIO",
+        "ingredients": [
+          {"name": "Burger con legumi", "composition": "patate, lenticchie, pane grattugiato, Asiago, Caciotta, carote, cipolle, Parmigiano Reggiano, olio extravergine d'oliva, uova, sale iodato", "infanzia": 48, "primaria": 96, "secondaria_adulti": 96},
+          {"name": "Maionese 100% vegetale BIO", "composition": "olio di semi di girasole, bevanda a base di soia (acqua, soia, sale), aceto di mele, sale, gomma di acacia, acido citrico", "infanzia": 10, "primaria": 10, "secondaria_adulti": 10}
+        ]
+      },
+      {
+        "dish": "Cotoletta di lonza alla milanese",
+        "ingredients": [
+          {"name": "Lonza", "infanzia": 67, "primaria": 76, "secondaria_adulti": 109},
+          {"name": "Pane grattugiato", "infanzia": 8, "primaria": 9, "secondaria_adulti": 13},
+          {"name": "Uova BIO", "infanzia": 5.3, "primaria": 6, "secondaria_adulti": 8.6},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Amido di mais", "infanzia": 2, "primaria": 2.3, "secondaria_adulti": 3.3},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Formaggi",
+        "ingredients": [
+          {"name": "Mozzarella BIO", "infanzia": 60, "primaria": 90, "secondaria_adulti": 90},
+          {"name": "Primo sale BIO", "infanzia": 45, "primaria": 45, "secondaria_adulti": 90}
+        ]
+      },
+      {
+        "dish": "Frittata",
+        "ingredients": [
+          {"name": "Uova BIO", "infanzia": 50, "primaria": 60, "secondaria_adulti": 100},
+          {"name": "Latte intero", "infanzia": 7, "primaria": 8.5, "secondaria_adulti": 14},
+          {"name": "Parmigiano Reggiano", "infanzia": 3.33, "primaria": 4, "secondaria_adulti": 6.66},
+          {"name": "Olio extravergine di oliva", "infanzia": 0.83, "primaria": 1, "secondaria_adulti": 1.66},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Halibut olio e limone biologico",
+        "ingredients": [
+          {"name": "Halibut", "infanzia": 80, "primaria": 100, "secondaria_adulti": 120},
+          {"name": "Olio extravergine di oliva", "infanzia": 4, "primaria": 5, "secondaria_adulti": 6},
+          {"name": "Succo di limone BIO", "infanzia": 2, "primaria": 2.5, "secondaria_adulti": 3},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Hummus di ceci",
+        "ingredients": [
+          {"name": "Hummus di ceci", "composition": "ceci, acqua, tahin (semi di sesamo, olio di semi di girasole), olio di semi di girasole, succo di limone, sale, acido citrico", "infanzia": 100, "primaria": 132, "secondaria_adulti": 173}
+        ]
+      },
+      {
+        "dish": "Pepite di merluzzo",
+        "ingredients": [
+          {"name": "Pepite di merluzzo", "composition": "merluzzo, farina di frumento, latte, patate, olio di girasole, fiocco di patate, formaggio Parmigiano Reggiano (latte, sale, caglio), albume d'uovo, sale, lievito di birra, paprika, curcuma", "infanzia": 84, "primaria": 105, "secondaria_adulti": 126}
+        ]
+      },
+      {
+        "dish": "Pizza margherita",
+        "ingredients": [
+          {"name": "Pizza margherita", "composition": "base: farina di grano tenero tipo 0, acqua, olio extravergine d'oliva, lievito madre (frumento), sale, lievito di birra. Farcitura: mozzarella (latte, fermenti lattici, sale, caglio), passata di pomodoro, polpa di pomodoro, olio extravergine d'oliva, sale. Può contenere soia e senape", "infanzia": 133, "primaria": 200, "secondaria_adulti": 300}
+        ]
+      },
+      {
+        "dish": "Polpette con soia in salsa curry",
+        "ingredients": [
+          {"name": "Polpette con soia", "composition": "patate, soia, Parmigiano Reggiano, pane grattugiato, carote, cipolle, olio extravergine d'oliva, sedano, uova, rosmarino, sale", "infanzia": 60, "primaria": 90, "secondaria_adulti": 120},
+          {"name": "Latte intero", "infanzia": 27, "primaria": 40, "secondaria_adulti": 54},
+          {"name": "Olio extravergine di oliva", "infanzia": 1.7, "primaria": 2.5, "secondaria_adulti": 3.4},
+          {"name": "Amido di mais", "infanzia": 1.1, "primaria": 1.6, "secondaria_adulti": 2.2},
+          {"name": "Curry", "infanzia": 0.17, "primaria": 0.25, "secondaria_adulti": 0.34},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Rustichelle di pollo biologico",
+        "ingredients": [
+          {"name": "Sovracosce di pollo BIO", "infanzia": 67, "primaria": 76, "secondaria_adulti": 109},
+          {"name": "Pane grattugiato", "infanzia": 8, "primaria": 9, "secondaria_adulti": 13},
+          {"name": "Uova BIO", "infanzia": 5.3, "primaria": 6, "secondaria_adulti": 8.6},
+          {"name": "Olio extravergine di oliva", "infanzia": 3.5, "primaria": 4, "secondaria_adulti": 5.7},
+          {"name": "Amido di mais", "infanzia": 2, "primaria": 2.3, "secondaria_adulti": 3.3},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      },
+      {
+        "dish": "Tonno",
+        "ingredients": [
+          {"name": "Tonno", "infanzia": 40, "primaria": 50, "secondaria_adulti": 70}
+        ]
+      },
+      {
+        "dish": "Uova strapazzate",
+        "ingredients": [
+          {"name": "Uova BIO", "infanzia": 50, "primaria": 60, "secondaria_adulti": 100},
+          {"name": "Olio extravergine di oliva", "infanzia": 1.7, "primaria": 2, "secondaria_adulti": 3.4},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]
+      }
+    ],
+    "contorni": [
+      {"dish": "Carote a tronchetto", "ingredients": [
+        {"name": "Carote BIO", "infanzia": 40, "primaria": 50, "secondaria_adulti": 70}
+      ]},
+      {"dish": "Carote julienne", "ingredients": [
+        {"name": "Carote BIO", "infanzia": 32, "primaria": 53, "secondaria_adulti": 74},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 3.4, "primaria": 5.6, "secondaria_adulti": 7.9},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Cruditè di carote e zucchine con mais", "ingredients": [
+        {"name": "Carote BIO", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Zucchine", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Mais", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 3.3, "primaria": 5.4, "secondaria_adulti": 7.5},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Erbette all'olio", "ingredients": [
+        {"name": "Erbette", "infanzia": 80, "primaria": 100, "secondaria_adulti": 120},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 2.8, "primaria": 3.5, "secondaria_adulti": 4.2},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Fagiolini all'olio", "ingredients": [
+        {"name": "Fagiolini", "infanzia": 50, "primaria": 80, "secondaria_adulti": 105},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 2.5, "primaria": 4, "secondaria_adulti": 5.25},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Insalata di stagione", "ingredients": [
+        {"name": "Insalata BIO", "infanzia": 25, "primaria": 30, "secondaria_adulti": 40},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 5, "primaria": 6, "secondaria_adulti": 8},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Insalata, mais e carote julienne", "ingredients": [
+        {"name": "Carote BIO", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Insalata BIO", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Mais", "infanzia": 11, "primaria": 18, "secondaria_adulti": 25},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 3.3, "primaria": 5.4, "secondaria_adulti": 7.5},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Mix di verdure al forno", "ingredients": [
+        {"name": "Mix di verdure", "composition": "zucchine, carote, patate", "infanzia": 80, "primaria": 100, "secondaria_adulti": 120},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 3.2, "primaria": 4, "secondaria_adulti": 4.6},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Pomodori", "ingredients": [
+        {"name": "Pomodori", "infanzia": 90, "primaria": 103.5, "secondaria_adulti": 120},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 4.4, "primaria": 5, "secondaria_adulti": 5.83},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Pomodori e cetrioli", "ingredients": [
+        {"name": "Pomodori", "infanzia": 60.2, "primaria": 69, "secondaria_adulti": 80},
+        {"name": "Cetrioli", "infanzia": 13, "primaria": 15, "secondaria_adulti": 17.4},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 4.4, "primaria": 5, "secondaria_adulti": 5.83},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Spinaci all'olio", "ingredients": [
+        {"name": "Spinaci", "infanzia": 80, "primaria": 100, "secondaria_adulti": 120},
+        {"name": "Olio extravergine di oliva BIO", "infanzia": 2.8, "primaria": 3.5, "secondaria_adulti": 4.2},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Spinaci e patate saporiti", "ingredients": [
+        {"name": "Patate", "infanzia": 40, "primaria": 50, "secondaria_adulti": 60},
+        {"name": "Spinaci", "infanzia": 40, "primaria": 50, "secondaria_adulti": 60},
+        {"name": "Olio extravergine di oliva", "infanzia": 4.8, "primaria": 6, "secondaria_adulti": 7.2},
+        {"name": "Aglio", "infanzia": 0.8, "primaria": 1, "secondaria_adulti": 1.2},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]},
+      {"dish": "Zucchine trifolate", "ingredients": [
+        {"name": "Zucchine", "infanzia": 80, "primaria": 100, "secondaria_adulti": 120},
+        {"name": "Olio extravergine di oliva", "infanzia": 3, "primaria": 3.8, "secondaria_adulti": 4.6},
+        {"name": "Prezzemolo", "infanzia": 1.6, "primaria": 2, "secondaria_adulti": 2.3},
+        {"name": "Aglio", "infanzia": 0.24, "primaria": 0.3, "secondaria_adulti": 0.35},
+        {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+      ]}
+    ],
+    "frutta_fresca": {
+      "note": "range g = scartata/al netto min-max approx (format shown as a/b g)",
+      "items": [
+        {"name": "Albicocche", "infanzia_g": "143/158", "primaria_g": "143/158", "secondaria_adulti_g": "143/158"},
+        {"name": "Anguria", "infanzia_g": "126/140", "primaria_g": "126/140", "secondaria_adulti_g": "126/140"},
+        {"name": "Arance BIO", "infanzia_g": "136/150", "primaria_g": "136/150", "secondaria_adulti_g": "136/150"},
+        {"name": "Banane BIO", "infanzia_g": "89/99", "primaria_g": "89/99", "secondaria_adulti_g": "89/99"},
+        {"name": "Clementine BIO", "infanzia_g": "131/145", "primaria_g": "131/145", "secondaria_adulti_g": "131/145"},
+        {"name": "Mele BIO", "infanzia_g": "143/158", "primaria_g": "143/158", "secondaria_adulti_g": "143/158"},
+        {"name": "Melone", "infanzia_g": "98/109", "primaria_g": "98/109", "secondaria_adulti_g": "98/109"},
+        {"name": "Miyagawa", "infanzia_g": "129/143", "primaria_g": "129/143", "secondaria_adulti_g": "129/143"},
+        {"name": "Pere BIO", "infanzia_g": "138/152", "primaria_g": "138/152", "secondaria_adulti_g": "138/152"},
+        {"name": "Pesche BIO", "infanzia_g": "138/152", "primaria_g": "138/152", "secondaria_adulti_g": "138/152"},
+        {"name": "Prugne", "infanzia_g": "133/147", "primaria_g": "133/147", "secondaria_adulti_g": "133/147"},
+        {"name": "Uva BIO", "infanzia_g": "152/168", "primaria_g": "152/168", "secondaria_adulti_g": "152/168"}
+      ]
+    },
+    "merende": [
+      {"dish": "Yogurt BIO", "ingredients": [{"name": "Yogurt BIO", "infanzia": 125, "primaria": 125, "secondaria_adulti": null}]},
+      {"dish": "Polpa di frutta", "ingredients": [{"name": "Polpa di frutta", "infanzia": 100, "primaria": 100, "secondaria_adulti": null}]},
+      {"dish": "Budino al cacao equosolidale BIO", "ingredients": [{"name": "Budino al cacao equosolidale BIO", "infanzia": 100, "primaria": 100, "secondaria_adulti": null}]},
+      {"dish": "Banana", "ingredients": [{"name": "Banana", "infanzia": 94, "primaria": 94, "secondaria_adulti": null}]},
+      {"dish": "Torta al cacao senza glutine", "ingredients": [
+        {"name": "Torta al cacao senza glutine (totale)", "infanzia": 50, "primaria": 65, "secondaria_adulti": null},
+        {"name": "Zucchero", "infanzia": 15.63, "primaria": 20.83, "secondaria_adulti": null},
+        {"name": "Uova BIO", "infanzia": 14.06, "primaria": 18.75, "secondaria_adulti": null},
+        {"name": "Burro", "infanzia": 11.25, "primaria": 15, "secondaria_adulti": null},
+        {"name": "Farina di riso", "infanzia": 7.03, "primaria": 9.38, "secondaria_adulti": null},
+        {"name": "Latte intero", "infanzia": 6.25, "primaria": 8.33, "secondaria_adulti": null},
+        {"name": "Amido di mais", "infanzia": 4.22, "primaria": 5.63, "secondaria_adulti": null},
+        {"name": "Cacao amaro", "infanzia": 3.75, "primaria": 5, "secondaria_adulti": null},
+        {"name": "Lievito", "infanzia": 1.13, "primaria": 1.5, "secondaria_adulti": null}
+      ]},
+      {"dish": "Torta alle mele senza glutine", "ingredients": [
+        {"name": "Torta alle mele senza glutine (totale)", "infanzia": 50, "primaria": 65, "secondaria_adulti": null},
+        {"name": "Mele BIO", "infanzia": 14.66, "primaria": 19.18, "secondaria_adulti": null},
+        {"name": "Farina di riso", "infanzia": 14.06, "primaria": 18.75, "secondaria_adulti": null},
+        {"name": "Zucchero", "infanzia": 10.94, "primaria": 14.58, "secondaria_adulti": null},
+        {"name": "Uova BIO", "infanzia": 9.4, "primaria": 12.5, "secondaria_adulti": null},
+        {"name": "Latte intero", "infanzia": 6.25, "primaria": 8.33, "secondaria_adulti": null},
+        {"name": "Burro", "infanzia": 6.25, "primaria": 8.33, "secondaria_adulti": null},
+        {"name": "Amido", "infanzia": 4.69, "primaria": 6.25, "secondaria_adulti": null},
+        {"name": "Lievito", "infanzia": 1, "primaria": 1.33, "secondaria_adulti": null}
+      ]},
+      {"dish": "Torta margherita senza glutine", "ingredients": [
+        {"name": "Torta margherita senza glutine (totale)", "infanzia": 50, "primaria": 65, "secondaria_adulti": null},
+        {"name": "Uova BIO", "infanzia": 15.63, "primaria": 20.83, "secondaria_adulti": null},
+        {"name": "Farina di riso", "infanzia": 12.5, "primaria": 16.67, "secondaria_adulti": null},
+        {"name": "Zucchero", "infanzia": 12.5, "primaria": 16.67, "secondaria_adulti": null},
+        {"name": "Latte intero", "infanzia": 9.4, "primaria": 12.5, "secondaria_adulti": null},
+        {"name": "Burro", "infanzia": 6.25, "primaria": 8.33, "secondaria_adulti": null},
+        {"name": "Amido di mais", "infanzia": 3.9, "primaria": 5.2, "secondaria_adulti": null},
+        {"name": "Lievito", "infanzia": 1.25, "primaria": 1.67, "secondaria_adulti": null}
+      ]},
+      {"dish": "Torta morbida senza glutine", "ingredients": [
+        {"name": "Torta morbida senza glutine (totale)", "infanzia": 50, "primaria": 65, "secondaria_adulti": null},
+        {"name": "Farina di riso", "infanzia": 15, "primaria": 16.67, "secondaria_adulti": null},
+        {"name": "Zucchero", "infanzia": 15, "primaria": 16.67, "secondaria_adulti": null},
+        {"name": "Barbabietola", "infanzia": 12.5, "primaria": 13.9, "secondaria_adulti": null},
+        {"name": "Latte intero", "infanzia": 11.25, "primaria": 12.5, "secondaria_adulti": null},
+        {"name": "Uova BIO", "infanzia": 10, "primaria": 11.1, "secondaria_adulti": null},
+        {"name": "Yogurt naturale", "infanzia": 9.38, "primaria": 10.42, "secondaria_adulti": null},
+        {"name": "Amido di mais", "infanzia": 5.63, "primaria": 6.25, "secondaria_adulti": null},
+        {"name": "Olio extravergine di oliva", "infanzia": 1.88, "primaria": 2.08, "secondaria_adulti": null},
+        {"name": "Lievito", "infanzia": 0.8, "primaria": 0.89, "secondaria_adulti": null}
+      ]},
+      {"dish": "Focaccia", "ingredients": [{"name": "Focaccia", "infanzia": 55, "primaria": 55, "secondaria_adulti": null}]},
+      {"dish": "Pane BIO (bianco, integrale o multicereali)", "ingredients": [{"name": "Pane BIO", "infanzia": 30, "primaria": 30, "secondaria_adulti": null}]},
+      {"dish": "Confettura di frutta monodose", "ingredients": [{"name": "Confettura di frutta monodose", "infanzia": 25, "primaria": 25, "secondaria_adulti": null}]},
+      {"dish": "Crackers di riso BIO", "ingredients": [{"name": "Crackers di riso BIO", "infanzia": 20, "primaria": 20, "secondaria_adulti": null}]}
+    ],
+    "pane": [
+      {"name": "Pane bianco BIO", "infanzia": 30, "primaria": 60, "secondaria_adulti": 60},
+      {"name": "Pane integrale BIO", "infanzia": 30, "primaria": 60, "secondaria_adulti": 60},
+      {"name": "Pane multicereali BIO", "infanzia": 30, "primaria": 60, "secondaria_adulti": 60},
+      {"name": "Pane bianco BIO quando presente la pizza", "infanzia": 30, "primaria": 30, "secondaria_adulti": 30},
+      {"name": "Pane integrale BIO quando presente la pizza", "infanzia": 30, "primaria": 30, "secondaria_adulti": 30},
+      {"name": "Pane multicereali BIO quando presente la pizza", "infanzia": 30, "primaria": 30, "secondaria_adulti": 30}
+    ],
+    "dessert": [
+      {"name": "Gelato coppa panna/cacao", "infanzia": 60, "primaria": 60, "secondaria_adulti": 60}
+    ],
+    "gita": {
+      "items": [
+        {"name": "Pane bianco BIO", "infanzia": 100, "primaria": 100, "secondaria_adulti": 100},
+        {"name": "Prosciutto cotto", "infanzia": 40, "primaria": 40, "secondaria_adulti": 40},
+        {"name": "Asiago", "infanzia": 40, "primaria": 40, "secondaria_adulti": 40},
+        {"name": "Frutta fresca di stagione / Polpa di frutta", "infanzia_g": "136-158/100", "primaria_g": "136-158/100", "secondaria_adulti_g": "136-158/100"},
+        {"name": "Nettare di frutta BIO / Acqua minerale", "infanzia_g": "200/500", "primaria_g": "200/500", "secondaria_adulti_g": "200/500"},
+        {"name": "Pane bianco BIO (bis)", "infanzia": 50, "primaria": 50, "secondaria_adulti": 50},
+        {"name": "Confettura di frutta monodose", "infanzia": 25, "primaria": 25, "secondaria_adulti": 25}
+      ]
+    },
+    "emergenza": {
+      "emergenza_caldo": [
+        {"dish": "Riso all'olio", "ingredients": [
+          {"name": "Riso", "infanzia": 50, "primaria": 70, "secondaria_adulti": 70},
+          {"name": "Olio extravergine di oliva", "infanzia": 5, "primaria": 7, "secondaria_adulti": 7},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.3}
+        ]},
+        {"dish": "Tonno", "ingredients": [{"name": "Tonno", "infanzia": 40, "primaria": 50, "secondaria_adulti": 70}]},
+        {"dish": "Fagiolini all'olio", "ingredients": [
+          {"name": "Fagiolini", "infanzia": 50, "primaria": 80, "secondaria_adulti": 105},
+          {"name": "Olio extravergine di oliva BIO", "infanzia": 2.5, "primaria": 4, "secondaria_adulti": 5.25},
+          {"name": "Sale iodato", "infanzia": 0.2, "primaria": 0.3, "secondaria_adulti": 0.4}
+        ]},
+        {"dish": "Frutta fresca", "ingredients": [{"name": "Frutta fresca", "infanzia_g": "89/168", "primaria_g": "89/168", "secondaria_adulti_g": "89/168"}]},
+        {"dish": "Pane BIO (bianco, integrale o multicereali)", "ingredients": [{"name": "Pane BIO", "infanzia": 30, "primaria": 30, "secondaria_adulti": 60}]}
+      ],
+      "merenda": [
+        {"name": "Pane BIO (bianco, integrale o multicereali)", "infanzia": 30, "primaria": 30, "secondaria_adulti": null},
+        {"name": "Polpa di frutta", "infanzia": 100, "primaria": 100, "secondaria_adulti": null}
+      ],
+      "pasto_sostitutivo": [
+        {"name": "Pane bianco BIO", "infanzia": 100, "primaria": 100, "secondaria_adulti": 100},
+        {"name": "Prosciutto cotto", "infanzia": 40, "primaria": 40, "secondaria_adulti": 40},
+        {"name": "Asiago", "infanzia": 40, "primaria": 40, "secondaria_adulti": 40},
+        {"name": "Budino al cacao equosolidale BIO", "infanzia": 100, "primaria": 100, "secondaria_adulti": 100},
+        {"name": "Nettare di frutta BIO/acqua minerale", "infanzia_g": "200/500", "primaria_g": "200/500", "secondaria_adulti_g": "200/500"}
+      ]
+    }
+  }
+}
