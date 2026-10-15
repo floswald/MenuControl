@@ -1,0 +1,590 @@
+{
+  "_source": "Computed from data/grammature_estate_2026.json x data/ingredient_carbs_per_100g.json. Approximate reference values, not lab-measured — see ingredient_carbs_per_100g.json _note.",
+  "dishes": [
+    {
+      "name": "Gnocchi al pomodoro",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 30.4,
+        "primaria": 40.0,
+        "secondaria_adulti": 49.5
+      }
+    },
+    {
+      "name": "Malloreddus BIO con ragù di pesce",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 39.5,
+        "primaria": 55.3,
+        "secondaria_adulti": 71.0
+      }
+    },
+    {
+      "name": "Pasta BIO agli aromi",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 37.6,
+        "primaria": 52.7,
+        "secondaria_adulti": 67.7
+      }
+    },
+    {
+      "name": "Pasta BIO aglio, olio e parmigiano",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 37.6,
+        "primaria": 52.7,
+        "secondaria_adulti": 67.7
+      }
+    },
+    {
+      "name": "Pasta BIO al sugo di pomodoro con peperoni",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 40.0,
+        "primaria": 56.1,
+        "secondaria_adulti": 72.1
+      }
+    },
+    {
+      "name": "Pasta BIO al pomodoro",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 39.3,
+        "primaria": 55.1,
+        "secondaria_adulti": 70.8
+      }
+    },
+    {
+      "name": "Pasta BIO al ragù di soia BIO",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 39.8,
+        "primaria": 55.7,
+        "secondaria_adulti": 71.6
+      }
+    },
+    {
+      "name": "Pasta BIO con melanzane alla siciliana",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 39.7,
+        "primaria": 55.6,
+        "secondaria_adulti": 71.5
+      }
+    },
+    {
+      "name": "Pasta di mais BIO al pomodoro e basilico",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 41.3,
+        "primaria": 57.9,
+        "secondaria_adulti": 74.4
+      }
+    },
+    {
+      "name": "Pasta di farro BIO al pesto con crema di zucchine",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 35.6,
+        "primaria": 49.8,
+        "secondaria_adulti": 64.1
+      }
+    },
+    {
+      "name": "Pasta integrale BIO al pesto",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 35.5,
+        "primaria": 49.7,
+        "secondaria_adulti": 63.9
+      }
+    },
+    {
+      "name": "Pasta integrale BIO al pomodoro",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 36.8,
+        "primaria": 51.6,
+        "secondaria_adulti": 66.3
+      }
+    },
+    {
+      "name": "Ravioli di magro olio e parmigiano",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 22.1,
+        "primaria": 27.5,
+        "secondaria_adulti": 33.4
+      }
+    },
+    {
+      "name": "Ravioli di magro olio e salvia",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 22.2,
+        "primaria": 27.5,
+        "secondaria_adulti": 33.5
+      }
+    },
+    {
+      "name": "Riso all'olio",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 40.0,
+        "primaria": 56.0,
+        "secondaria_adulti": 72.0
+      }
+    },
+    {
+      "name": "Riso olio e parmigiano",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 40.0,
+        "primaria": 56.0,
+        "secondaria_adulti": 72.0
+      }
+    },
+    {
+      "name": "Risotto alla parmigiana",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 40.4,
+        "primaria": 56.5,
+        "secondaria_adulti": 72.7
+      }
+    },
+    {
+      "name": "Risotto allo zafferano",
+      "category": "primi_piatti",
+      "carbs_g": {
+        "infanzia": 40.3,
+        "primaria": 56.5,
+        "secondaria_adulti": 72.6
+      }
+    },
+    {
+      "name": "Bastoncini di pesce",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 9.6,
+        "primaria": 19.2,
+        "secondaria_adulti": 19.2
+      }
+    },
+    {
+      "name": "Bocconcini di tacchino alla romana",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 3.8,
+        "primaria": 4.4,
+        "secondaria_adulti": 6.3
+      }
+    },
+    {
+      "name": "Bocconcini di tacchino senape e limone BIO",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 2.4,
+        "primaria": 2.7,
+        "secondaria_adulti": 4.0
+      }
+    },
+    {
+      "name": "Burger con legumi con maionese 100% vegetale BIO",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 7.3,
+        "primaria": 14.5,
+        "secondaria_adulti": 14.5
+      }
+    },
+    {
+      "name": "Cotoletta di lonza alla milanese",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 7.6,
+        "primaria": 8.5,
+        "secondaria_adulti": 12.3
+      }
+    },
+    {
+      "name": "Formaggi",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 1.1,
+        "primaria": 1.4,
+        "secondaria_adulti": 1.8
+      }
+    },
+    {
+      "name": "Frittata",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 0.7,
+        "primaria": 0.8,
+        "secondaria_adulti": 1.3
+      }
+    },
+    {
+      "name": "Halibut olio e limone biologico",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 0.1,
+        "primaria": 0.1,
+        "secondaria_adulti": 0.1
+      }
+    },
+    {
+      "name": "Hummus di ceci",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 11.0,
+        "primaria": 14.5,
+        "secondaria_adulti": 19.0
+      }
+    },
+    {
+      "name": "Pepite di merluzzo",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 13.4,
+        "primaria": 16.8,
+        "secondaria_adulti": 20.2
+      }
+    },
+    {
+      "name": "Pizza margherita",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 35.9,
+        "primaria": 54.0,
+        "secondaria_adulti": 81.0
+      }
+    },
+    {
+      "name": "Polpette con soia in salsa curry",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 11.3,
+        "primaria": 16.9,
+        "secondaria_adulti": 22.6
+      }
+    },
+    {
+      "name": "Rustichelle di pollo biologico",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 7.6,
+        "primaria": 8.5,
+        "secondaria_adulti": 12.3
+      }
+    },
+    {
+      "name": "Tonno",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 0.0,
+        "primaria": 0.0,
+        "secondaria_adulti": 0.0
+      }
+    },
+    {
+      "name": "Uova strapazzate",
+      "category": "secondi_piatti",
+      "carbs_g": {
+        "infanzia": 0.3,
+        "primaria": 0.4,
+        "secondaria_adulti": 0.6
+      }
+    },
+    {
+      "name": "Carote a tronchetto",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.0,
+        "primaria": 3.8,
+        "secondaria_adulti": 5.3
+      }
+    },
+    {
+      "name": "Carote julienne",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 2.4,
+        "primaria": 4.0,
+        "secondaria_adulti": 5.6
+      }
+    },
+    {
+      "name": "Cruditè di carote e zucchine con mais",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.1,
+        "primaria": 5.0,
+        "secondaria_adulti": 7.0
+      }
+    },
+    {
+      "name": "Erbette all'olio",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.0,
+        "primaria": 3.7,
+        "secondaria_adulti": 4.4
+      }
+    },
+    {
+      "name": "Fagiolini all'olio",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.5,
+        "primaria": 5.6,
+        "secondaria_adulti": 7.3
+      }
+    },
+    {
+      "name": "Insalata di stagione",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 0.7,
+        "primaria": 0.8,
+        "secondaria_adulti": 1.1
+      }
+    },
+    {
+      "name": "Insalata, mais e carote julienne",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.2,
+        "primaria": 5.3,
+        "secondaria_adulti": 7.3
+      }
+    },
+    {
+      "name": "Mix di verdure al forno",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 6.4,
+        "primaria": 8.0,
+        "secondaria_adulti": 9.6
+      }
+    },
+    {
+      "name": "Pomodori",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 3.6,
+        "primaria": 4.1,
+        "secondaria_adulti": 4.8
+      }
+    },
+    {
+      "name": "Pomodori e cetrioli",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 2.7,
+        "primaria": 3.1,
+        "secondaria_adulti": 3.5
+      }
+    },
+    {
+      "name": "Spinaci all'olio",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 2.9,
+        "primaria": 3.6,
+        "secondaria_adulti": 4.3
+      }
+    },
+    {
+      "name": "Spinaci e patate saporiti",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 8.5,
+        "primaria": 10.6,
+        "secondaria_adulti": 12.8
+      }
+    },
+    {
+      "name": "Zucchine trifolate",
+      "category": "contorni",
+      "carbs_g": {
+        "infanzia": 1.3,
+        "primaria": 1.6,
+        "secondaria_adulti": 1.9
+      }
+    },
+    {
+      "name": "Pane bianco BIO",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 15.9,
+        "primaria": 31.8,
+        "secondaria_adulti": 31.8
+      }
+    },
+    {
+      "name": "Pane integrale BIO",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 12.9,
+        "primaria": 25.8,
+        "secondaria_adulti": 25.8
+      }
+    },
+    {
+      "name": "Pane multicereali BIO",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 14.1,
+        "primaria": 28.2,
+        "secondaria_adulti": 28.2
+      }
+    },
+    {
+      "name": "Pane bianco BIO quando presente la pizza",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 15.9,
+        "primaria": 15.9,
+        "secondaria_adulti": 15.9
+      }
+    },
+    {
+      "name": "Pane integrale BIO quando presente la pizza",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 12.9,
+        "primaria": 12.9,
+        "secondaria_adulti": 12.9
+      }
+    },
+    {
+      "name": "Pane multicereali BIO quando presente la pizza",
+      "category": "pane",
+      "carbs_g": {
+        "infanzia": 14.1,
+        "primaria": 14.1,
+        "secondaria_adulti": 14.1
+      }
+    },
+    {
+      "name": "Gelato coppa panna/cacao",
+      "category": "dessert",
+      "carbs_g": {
+        "infanzia": 15.0,
+        "primaria": 15.0,
+        "secondaria_adulti": 15.0
+      }
+    },
+    {
+      "name": "Albicocche",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 12.2,
+        "primaria": 12.2,
+        "secondaria_adulti": 12.2
+      }
+    },
+    {
+      "name": "Anguria",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 9.6,
+        "primaria": 9.6,
+        "secondaria_adulti": 9.6
+      }
+    },
+    {
+      "name": "Arance BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 11.0,
+        "primaria": 11.0,
+        "secondaria_adulti": 11.0
+      }
+    },
+    {
+      "name": "Banane BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 17.8,
+        "primaria": 17.8,
+        "secondaria_adulti": 17.8
+      }
+    },
+    {
+      "name": "Clementine BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 13.8,
+        "primaria": 13.8,
+        "secondaria_adulti": 13.8
+      }
+    },
+    {
+      "name": "Mele BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 16.9,
+        "primaria": 16.9,
+        "secondaria_adulti": 16.9
+      }
+    },
+    {
+      "name": "Melone",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 5.9,
+        "primaria": 5.9,
+        "secondaria_adulti": 5.9
+      }
+    },
+    {
+      "name": "Miyagawa",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 14.2,
+        "primaria": 14.2,
+        "secondaria_adulti": 14.2
+      }
+    },
+    {
+      "name": "Pere BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 14.5,
+        "primaria": 14.5,
+        "secondaria_adulti": 14.5
+      }
+    },
+    {
+      "name": "Pesche BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 11.9,
+        "primaria": 11.9,
+        "secondaria_adulti": 11.9
+      }
+    },
+    {
+      "name": "Prugne",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 14.0,
+        "primaria": 14.0,
+        "secondaria_adulti": 14.0
+      }
+    },
+    {
+      "name": "Uva BIO",
+      "category": "frutta_fresca",
+      "carbs_g": {
+        "infanzia": 24.5,
+        "primaria": 24.5,
+        "secondaria_adulti": 24.5
+      }
+    }
+  ]
+}

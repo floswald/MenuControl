@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MenuControl">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1c1c1e" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<title>MenuControl</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header class="tabbar-top">
+    <h1 id="screen-title">Il vassoio di oggi</h1>
+  </header>
+
+  <main id="tray-screen" class="screen">
+    <div id="catalog-list"></div>
+  </main>
+
+  <main id="history-screen" class="screen hidden">
+    <div id="history-list"></div>
+    <p id="history-empty" class="empty-state hidden">Nessun pasto registrato.<br>I pasti registrati compariranno qui.</p>
+  </main>
+
+  <footer id="tray-footer" class="footer">
+    <div class="total">
+      <span class="total-label">Totale carboidrati</span>
+      <span class="total-value"><span id="total-carbs">0</span> g</span>
+    </div>
+    <button id="log-button" disabled>Registra pasto</button>
+  </footer>
+
+  <nav class="tabbar-bottom">
+    <button class="tab-button active" data-tab="tray">🍽️<span>Vassoio</span></button>
+    <button class="tab-button" data-tab="history">🕐<span>Storico</span></button>
+  </nav>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
