@@ -4,6 +4,7 @@
 
 const AGE_GROUP = "secondaria_adulti"; // Elena's school level — see specs.md
 const STORAGE_KEY = "menucontrol.mealLog.v1";
+const CARBS_PER_INSULIN_UNIT = 15; // Elena's insulin:carb ratio is 1:15g
 
 const CATEGORY_NAMES = {
   primi_piatti: "Primi",
@@ -64,6 +65,10 @@ function totalCarbsG() {
   return selectedDishes().reduce((sum, d) => sum + d.carbsG, 0);
 }
 
+function bolusUnits(carbsG) {
+  return carbsG / CARBS_PER_INSULIN_UNIT;
+}
+
 function clearSelection() {
   selectedIds.clear();
 }
@@ -103,6 +108,7 @@ function logCurrentSelection() {
     timestamp: localTimestamp(new Date()),
     items,
     total_carbs_g,
+    bolus_units: bolusUnits(total_carbs_g),
   };
 
   entries.unshift(entry); // newest first
@@ -147,7 +153,9 @@ function renderTray() {
     container.appendChild(section);
   }
 
-  document.getElementById("total-carbs").textContent = Math.round(totalCarbsG());
+  const totalCarbs = totalCarbsG();
+  document.getElementById("total-carbs").textContent = Math.round(totalCarbs);
+  document.getElementById("bolus-units").textContent = bolusUnits(totalCarbs).toFixed(1);
   document.getElementById("log-button").disabled = selectedIds.size === 0;
 }
 
@@ -169,7 +177,7 @@ function renderHistory() {
     el.innerHTML = `
       <div class="row">
         <span><span class="date">${datePart}</span><span class="time">${timePart.slice(0, 5)}</span></span>
-        <span class="total">${Math.round(entry.total_carbs_g)} g</span>
+        <span class="total">${Math.round(entry.total_carbs_g)} g · ${bolusUnits(entry.total_carbs_g).toFixed(1)} U</span>
       </div>
       <div class="items">${entry.items.map((i) => escapeHtml(i.name)).join(", ")}</div>`;
     list.appendChild(el);

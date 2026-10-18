@@ -122,6 +122,7 @@ html, body {
   gap: 12px;
 }
 
+.totals { display: flex; gap: 20px; }
 .total { display: flex; flex-direction: column; }
 .total-label { font-size: 12px; color: var(--text-secondary); }
 .total-value { font-size: 22px; font-weight: 700; }
